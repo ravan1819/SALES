@@ -1,7 +1,9 @@
 ##Adidas Sales Dashboard
 
-#Problem Statement
+##Dashboard Link: https://app.powerbi.com/reportEmbed?reportId=562493c2-f53f-493e-91e2-14403d87f432&autoAuth=true&ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61
 
+
+## Problem Statement
 The objective of this project is to analyze the Adidas sales database to identify key insights that can help improve sales performance and optimize business strategies.
 By examining the sales data, we aim to understand the factors influencing sales, identify trends, and uncover opportunities for growth. This analysis is conducted using 
 advanced Power BI visualizations and filters to provide an interactive and insightful dashboard.
@@ -62,17 +64,81 @@ Step-5-Formatting: Apply a theme to the report page.
 
 Step-6-Visualization:
 -CARD: Visualize overall sales, profit, average price per unit, and total units sold.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=c007a35f53d216c743a3&height=82.50&width=148.75&bookmarkGuid=1be8d831-4cc8-45d2-a47d-2d01c71cb614"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=32b620e512b2d327e227&height=88.75&width=151.25&bookmarkGuid=e9f97192-8ce6-4e39-bd4f-2a55f038866b"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=0278b27263161a1dc3e5&height=93.75&width=142.50&bookmarkGuid=6eaace0f-dcc1-4a97-8404-75e684410a31"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=84061d4d0b1c37154900&height=105.00&width=122.50&bookmarkGuid=b9922a87-4263-41f6-9899-ab6bdd290370"
+
+
 -Stacked Area Chart and Clustered Column Chart: Analyze total profit by retailer.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection3789bc974d8be068a206?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=548f1a42e47bd59be2c8&height=312.87&width=537.91&bookmarkGuid=751af6ee-d623-4831-bca7-b594994636f7"
+
+
 -Slicer: Track sales trends over time (year, quarter, month, day).
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=d3cbf23c04dc27379550&height=93.75&width=97.50&bookmarkGuid=54807320-ca0a-4e1a-80b9-638dd5e40fe9"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=c3324d0f60d302274862&height=149.57&width=97.43&bookmarkGuid=20a1353c-01c7-49da-b766-ae7dfa1b7bad"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=3ca09469a820e0dd0e25&height=374.62&width=119.38&bookmarkGuid=47a9a02a-0a7a-4a5d-9ecc-f92f7c0018e2"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=e7938112a2d91de0c0a3&height=282.68&width=207.20&bookmarkGuid=c1588905-f6ba-4d0b-bd2a-d241016670a3"
+
+
 -Stacked Bar Chart: Visualize product category sales distribution.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=ec8be2cc0270ab38032a&height=288.17&width=462.44&bookmarkGuid=cb3d3443-9752-44fc-8d55-e4066eebf7d1"
+
 -Clustered Column Chart: Analyze units sold by product category and gender type.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection3789bc974d8be068a206?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=d9ce5fed00060072002a&height=352.66&width=352.66&bookmarkGuid=d5e00498-fc28-4d0e-b040-ac7ead520f11"
+
 -Pie Chart: Determine the most effective sales methods.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection8f19acb6c185108ad925?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=388977950c30b891e104&height=256.60&width=369.13&bookmarkGuid=b1754e96-32ae-4a7d-a87a-7b41682fb2b4"
+
 -Funnel and Matrix Charts: Analyze regional sales data.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection3789bc974d8be068a206?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=327512e51ab0e336aa27&height=299.14&width=340.31&bookmarkGuid=389fa8c9-2bb3-4f28-805a-e63ee3fbd33a"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection3789bc974d8be068a206?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=434a35dfe0372bbc10dd&height=327.96&width=248.37&bookmarkGuid=d9bb8654-717b-4384-a7da-db212f536d33"
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection3789bc974d8be068a206?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=5436e180509b1d1e994e&height=319.73&width=248.37&bookmarkGuid=515fe660-ce69-4759-a7e4-194e4b22723b"
+
 -Clustered Column Chart: Identify top 5 performing cities by profit.
 
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSection3789bc974d8be068a206?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=a210325fcb8142902be5&height=316.98&width=395.20&bookmarkGuid=ef687378-3400-4581-854e-312e5a6468f4"
+
 Step-7-Drill-through Filtering: Enable detailed views for product categories.
+
+"https://app.powerbi.com/groups/me/reports/562493c2-f53f-493e-91e2-14403d87f432/ReportSectione36d32d9403602c842c5?ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61&pbi_source=shareVisual&visual=5d78c027bd0b1ee4607a&height=347.17&width=440.48&bookmarkGuid=ae00bc6b-1623-4101-ba6f-d74537374267"
 
 ##Conclusion
 This dashboard provides comprehensive insights into Adidas sales performance, highlighting key areas for improvement and potential growth opportunities. 
 The use of advanced Power BI visualizations and interactive elements ensures a detailed and user-friendly analysis.
 
+
+##Snapshot of Dashboard
+
+![Screenshot (121)](https://github.com/ravan1819/SALES/assets/162911999/8962920a-f290-4be1-ae89-0f0b91867960)
+
+
+
+
+![Screenshot (117)](https://github.com/ravan1819/SALES/assets/162911999/7aa1a436-5475-4e26-8749-d1afb653a098)
+
+
+
+
+##Drill-through Dashboard
+
+![Screenshot (118)](https://github.com/ravan1819/SALES/assets/162911999/09341de7-d612-4f8c-bdd4-fea13db1d9bd)
+
+
+
+![Screenshot (119)](https://github.com/ravan1819/SALES/assets/162911999/246b9aef-350d-4ed9-bb6c-f8fcbbaa95c9)
