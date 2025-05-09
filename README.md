@@ -1,6 +1,6 @@
 ##Adidas Sales Dashboard
 
-##Dashboard Link: https://app.powerbi.com/reportEmbed?reportId=562493c2-f53f-493e-91e2-14403d87f432&autoAuth=true&ctid=a84592b2-fdaf-489f-bec3-37c7f6064a61
+##Power BI Dashboard File: https://drive.google.com/file/d/1TBB6xf4R1rF9OIkAYPuzOx5bBuWyKujm/view?usp=drive_link
 
 
 ## Problem Statement
